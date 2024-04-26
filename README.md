@@ -14,3 +14,4 @@ feladat: Volt olyan hét, amikor ötnél kevesebb hiányzó volt
 feladat: A legtöbb hiányzás a 3. héten volt (16 óra)
 5. Hányadik héten volt egyetlen hiányzás?
 feladat: 4. héten volt egyetlen hiányzás
+hf: mapelés utánanéz
